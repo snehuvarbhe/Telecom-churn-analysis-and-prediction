@@ -74,7 +74,7 @@ docs/_build/
 # PyBuilder
 .pybuilder/
 target/
-unzipped_dataset_folder
+unzipped_dataset_folder/
 # Jupyter Notebook
 .ipynb_checkpoints
 
