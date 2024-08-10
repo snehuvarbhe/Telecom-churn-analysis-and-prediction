@@ -74,7 +74,7 @@ docs/_build/
 # PyBuilder
 .pybuilder/
 target/
-unzipped_dataset_folder/
+telecom-company-churn-rate-call-center-data.zip
 # Jupyter Notebook
 .ipynb_checkpoints
 
